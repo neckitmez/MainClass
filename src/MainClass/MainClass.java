@@ -7,7 +7,9 @@ public class MainClass {
 	Scanner sr;
 	public static void main(String[] args) {
 		BasicType app= new BasicType();
-		
+		app.zadanie1();
+		BasicType blalblab = new BasicType();
+		blalblab.zadanie1();
 	}
 		
 }
